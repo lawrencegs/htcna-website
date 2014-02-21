@@ -1,0 +1,5 @@
+Sitemap: http://www.holytrinitycommunity-na.org/sitemap.xml
+
+User-agent: *
+Disallow: /ajax/apps/download.php 
+Disallow: 
